@@ -31,14 +31,6 @@ $ git clone git@github.com:mirouhml/mv-space-travellers.git.
 ```
 $ cd mv-space-travellers
 ```
-- Install all dependencies using:
-``` 
-$ npm install
-```
-- Run local server using:
-``` 
-$ npm start
-```
 
 ### Prerequisites
 - GitHub
